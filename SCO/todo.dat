@@ -1,0 +1,18 @@
+[Tasks]
+Count=16
+task1=Bookmarks?
+task2=Set up as an add-in in the Tools menu?
+task3=If add-in, give insert ability into current code window
+task4=*Ability to print the code
+task5=*Improve loading of source with the id tag instead of the title
+task6=*Add searching capabilities
+task7=*Allow form resizing
+task8=*Can I make the code window an IDE window with syntax highlighting?
+task9=*Change tabs to property tabs?
+task10=*Sort listview without going out to the database
+task11=*Organize in a tree view w/ catagories
+task12=*Change the Copy Snippit funnction to Export
+task13=*Remove the RFT text saved from the notes window
+task14=*Improve SQL Select statements
+task15=*Improve the ADO error checking
+task16=*Change the splashscreen image
